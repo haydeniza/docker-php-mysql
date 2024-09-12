@@ -3,7 +3,7 @@
     // Início da conexão com o banco de dados utilizando PDO
 
     // Define o host do banco de dados (geralmente 'localhost' para ambientes locais)
-    $host = "teste_mysql";
+    $host = "mysql-iza";
 
     // Define o nome de usuário para a conexão com o banco de dados (neste caso, 'root')
     $user = "root";
@@ -12,7 +12,7 @@
     $pass = "123456";
 
     // Define o nome do banco de dados que será utilizado
-    $dbname = "teste_bd";
+    $dbname = "iza";
 
     // Define a porta para a conexão com o banco de dados (3306 é a porta padrão para MySQL)
     $port = 3306;
